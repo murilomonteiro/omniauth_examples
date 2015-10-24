@@ -10,13 +10,13 @@ Things you may want to cover:
    version used in this example was 2.2-head
 
 * System dependencies
-  All described in gemfile
+   All described in gemfile
 
 * Configuration
-  All providers are discribed in configuration/devise.rb 
+   All providers are discribed in configuration/devise.rb 
 
 * Database creation
-  any
+   any
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
